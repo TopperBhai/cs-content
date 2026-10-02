@@ -1,17 +1,7 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-02T17:14:09.829Z",
+  "publishedAt": "2026-10-02T17:18:18.899Z",
   "capes": [
-    {
-      "id": "e2e-test-mur82xhz",
-      "name": "E2E Test mur82xhz",
-      "tagline": "Published by the end-to-end test.",
-      "rarity": "epic",
-      "price": 77,
-      "currency": "INR",
-      "active": true,
-      "texture": "content/capes/e2e-test-mur82xhz.png"
-    },
     {
       "id": "e2e-test-mur82xhz-v2",
       "name": "E2E Test mur82xhz v2",
