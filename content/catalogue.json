@@ -1,16 +1,16 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-02T15:45:17.387Z",
+  "publishedAt": "2026-10-02T15:45:29.618Z",
   "capes": [
     {
-      "id": "e2e-test-mur4ws68",
-      "name": "E2E Test mur4ws68",
-      "tagline": "Published by the end-to-end test.",
-      "rarity": "epic",
-      "price": 77,
+      "id": "e2e-test-mur4ws68-v2",
+      "name": "E2E Test mur4ws68 v2",
+      "tagline": "second drop",
+      "rarity": "rare",
+      "price": 33,
       "currency": "INR",
       "active": true,
-      "texture": "content/capes/e2e-test-mur4ws68.png"
+      "texture": "content/capes/e2e-test-mur4ws68-v2.png"
     }
   ]
 }
