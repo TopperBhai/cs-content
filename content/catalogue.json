@@ -1,0 +1,16 @@
+{
+  "format": "cs-cape-catalogue-v1",
+  "publishedAt": "2026-10-02T13:54:17.469Z",
+  "capes": [
+    {
+      "id": "e2e-test-mur0y195",
+      "name": "E2E Test mur0y195",
+      "tagline": "Published by the end-to-end test.",
+      "rarity": "epic",
+      "price": 77,
+      "currency": "INR",
+      "active": true,
+      "texture": "content/capes/e2e-test-mur0y195.png"
+    }
+  ]
+}
