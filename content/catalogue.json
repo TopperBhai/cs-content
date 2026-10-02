@@ -1,5 +1,16 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-02T18:40:57.326Z",
-  "capes": []
+  "publishedAt": "2026-10-02T18:43:31.225Z",
+  "capes": [
+    {
+      "id": "fastsync-probe",
+      "name": "FastSync Probe",
+      "tagline": "temporary",
+      "rarity": "epic",
+      "price": 19,
+      "currency": "INR",
+      "active": true,
+      "texture": "content/capes/fastsync-probe.png"
+    }
+  ]
 }
