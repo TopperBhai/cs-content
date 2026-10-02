@@ -1,6 +1,6 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-02T17:19:51.290Z",
+  "publishedAt": "2026-10-02T17:19:59.213Z",
   "capes": [
     {
       "id": "e2e-test-mur8ae4r",
@@ -11,6 +11,16 @@
       "currency": "INR",
       "active": true,
       "texture": "content/capes/e2e-test-mur8ae4r.png"
+    },
+    {
+      "id": "e2e-test-mur8ae4r-v2",
+      "name": "E2E Test mur8ae4r v2",
+      "tagline": "second drop",
+      "rarity": "rare",
+      "price": 33,
+      "currency": "INR",
+      "active": true,
+      "texture": "content/capes/e2e-test-mur8ae4r-v2.png"
     }
   ]
 }
