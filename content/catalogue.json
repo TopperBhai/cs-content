@@ -1,6 +1,6 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-02T16:55:00.633Z",
+  "publishedAt": "2026-10-02T17:05:11.317Z",
   "capes": [
     {
       "id": "e2e-test-mur78yqb-v2",
@@ -11,6 +11,15 @@
       "currency": "INR",
       "active": true,
       "texture": "content/capes/e2e-test-mur78yqb-v2.png"
+    },
+    {
+      "id": "cdn-probe-mur7rk2b",
+      "name": "CDN Probe",
+      "tagline": "temporary",
+      "rarity": "legendary",
+      "price": 1,
+      "active": true,
+      "texture": "content/capes/cdn-probe-mur7rk2b.png"
     }
   ]
 }
