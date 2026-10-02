@@ -1,15 +1,5 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-02T18:40:40.088Z",
-  "capes": [
-    {
-      "id": "atom-probe-murb6bo5",
-      "name": "Atom Probe",
-      "tagline": "temporary",
-      "rarity": "legendary",
-      "price": 1,
-      "active": true,
-      "texture": "content/capes/atom-probe-murb6bo5.png"
-    }
-  ]
+  "publishedAt": "2026-10-02T18:40:57.326Z",
+  "capes": []
 }
