@@ -1,17 +1,7 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-02T15:48:07.791Z",
+  "publishedAt": "2026-10-02T15:48:13.130Z",
   "capes": [
-    {
-      "id": "e2e-test-mur505bi",
-      "name": "E2E Test mur505bi",
-      "tagline": "Published by the end-to-end test.",
-      "rarity": "epic",
-      "price": 77,
-      "currency": "INR",
-      "active": true,
-      "texture": "content/capes/e2e-test-mur505bi.png"
-    },
     {
       "id": "e2e-test-mur505bi-v2",
       "name": "E2E Test mur505bi v2",
