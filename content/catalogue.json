@@ -1,17 +1,7 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-02T17:19:59.213Z",
+  "publishedAt": "2026-10-02T17:24:58.816Z",
   "capes": [
-    {
-      "id": "e2e-test-mur8ae4r",
-      "name": "E2E Test mur8ae4r",
-      "tagline": "Published by the end-to-end test.",
-      "rarity": "epic",
-      "price": 77,
-      "currency": "INR",
-      "active": true,
-      "texture": "content/capes/e2e-test-mur8ae4r.png"
-    },
     {
       "id": "e2e-test-mur8ae4r-v2",
       "name": "E2E Test mur8ae4r v2",
