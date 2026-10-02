@@ -1,16 +1,16 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-02T17:13:20.886Z",
+  "publishedAt": "2026-10-02T17:14:02.808Z",
   "capes": [
     {
-      "id": "nila-bandar",
-      "name": "Nila Bandar",
-      "tagline": "Blue",
-      "rarity": "mythic",
-      "price": 10,
+      "id": "e2e-test-mur82xhz",
+      "name": "E2E Test mur82xhz",
+      "tagline": "Published by the end-to-end test.",
+      "rarity": "epic",
+      "price": 77,
       "currency": "INR",
       "active": true,
-      "texture": "content/capes/nila-bandar.png"
+      "texture": "content/capes/e2e-test-mur82xhz.png"
     }
   ]
 }
