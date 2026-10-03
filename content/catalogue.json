@@ -1,5 +1,16 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-03T07:09:36.448Z",
-  "capes": []
+  "publishedAt": "2026-10-03T08:39:39.023Z",
+  "capes": [
+    {
+      "id": "nila-bandar",
+      "name": "Nila Bandar",
+      "tagline": "Blue",
+      "rarity": "mythic",
+      "price": 10,
+      "currency": "INR",
+      "active": true,
+      "texture": "content/capes/nila-bandar.png"
+    }
+  ]
 }
