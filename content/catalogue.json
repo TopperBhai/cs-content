@@ -1,6 +1,6 @@
 {
   "format": "cs-cape-catalogue-v1",
-  "publishedAt": "2026-10-03T08:39:39.023Z",
+  "publishedAt": "2026-10-04T13:24:49.579Z",
   "capes": [
     {
       "id": "nila-bandar",
@@ -11,6 +11,17 @@
       "currency": "INR",
       "active": true,
       "texture": "content/capes/nila-bandar.png"
+    },
+    {
+      "id": "ss-topper-cape",
+      "name": "SS TOPPER Cape",
+      "tagline": "Hand Made By Topper !",
+      "rarity": "rare",
+      "price": 49,
+      "currency": "INR",
+      "active": true,
+      "texture": "content/capes/ss-topper-cape.png",
+      "preview": "content/capes/ss-topper-cape.preview.png"
     }
   ]
 }
